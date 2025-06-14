@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rik Maity</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&lines=RIK+MAITY" alt="Typing SVG" />
+</h1>
+
+
 <h3 align="center">Web & Android Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
 
----
+___
 
 ### 🧠 About Me
+
 I'm currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.  
 A passionate full-stack and Android developer with a deep curiosity in AI, Cybersecurity, and Ethical Hacking.  
 I love building clean, secure, and intelligent web apps that solve real-world problems. Always open to meaningful collaborations!
@@ -28,10 +33,10 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 
 ### 🎖️ Badges
 <p align="left">
-   <b>Contributor - SSOC'4</b>
-  <img src="https://user-images.githubusercontent.com/87392190/267936424-6cbebf04-318e-4452-9f63-6235dfe3ef5e.png" alt="SSOC'4 Contributor Badge" width="150"/>
-  <br/>
+  <b>Contributor - SSOC'4</b><br/>
+  <img src="https://github.com/user-attachments/assets/33f14710-0238-434e-89ab-004aac611b80" alt="SSOC'4 Contributor Badge" width="150"/>
 </p>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -55,3 +60,4 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 </p>
 
 ---
+
