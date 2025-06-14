@@ -3,56 +3,46 @@
 
 ---
 
-### 🧠 About Me:
+### 🧠 About Me
 I'm currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.  
 A passionate full-stack and Android developer with a deep curiosity in AI, Cybersecurity, and Ethical Hacking.  
 I love building clean, secure, and intelligent web apps that solve real-world problems. Always open to meaningful collaborations!
 
 ---
 
-### ⚡ Hackathon Journey:
-- 🏆 **Hackfest 2025** — *Team Lead*, built a full-stack Civic app using MERN & Firebase
-- 🧠 **Hack4Bengal (Virtual)** — Created a real-time AI-integrated tracker using Node.js & WebRTC
-- 🌍 **Hack4Brahma 2025** — Focused on region-specific social impact using ML
-- 💡 Other internal CSE fests & idea competitions across semesters
+### ⚡ Hackathon Journey
+- 🏆 **Hackfest 2025** — Built Atom Mail System - An innovative AI based email management solution
+- 🧠 **Hack4Bengal (Virtual)** — Developed a vaccine tracking and appointment booking app
+  
+---
+
+### 🌐 Socials 
+<p align="left"> <a href="https://www.linkedin.com/in/rik-maity-542996328/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a><a href="https://x.com/rik_maity522" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /> </a> <a href="https://www.instagram.com/_rik.maity522_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:rikmaity522@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
 
 ---
 
-### 🔓 Open Source Contributions & Roles:
-- Maintainer at **CivicTraK**
-- Participated in **Hacktoberfest 2024** & **Winter of Code**
-- Active contributor in ML and full-stack repos across GitHub
+### 💻 Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/Rik%20Maity-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rik-maity)  
-[![Instagram](https://img.shields.io/badge/_rik.maity522_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rik.maity522_)  
-📫 **Email:** rikmaity522@gmail.com
+### 🎖️ Badges
+<p align="left">
+   <b>Contributor - SSOC'4</b>
+  <img src="https://user-images.githubusercontent.com/87392190/267936424-6cbebf04-318e-4452-9f63-6235dfe3ef5e.png" alt="SSOC'4 Contributor Badge" width="150"/>
+  <br/>
+</p>
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack&theme=radical&row=1&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-### 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
----
-
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rik-web-fullstack&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -62,20 +52,6 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rik-web-fullstack&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack&theme=radical&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 🎖️ Badges:
-<p align="left">
-  <img src="https://holopin.me/rik-web-fullstack" alt="Holopin Badges" />
 </p>
 
 ---
