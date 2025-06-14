@@ -41,7 +41,9 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack&theme=radical&row=1&no-bg=true&no-frame=true" />
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
+</div>
 </p>
 
 ---
@@ -60,4 +62,7 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
