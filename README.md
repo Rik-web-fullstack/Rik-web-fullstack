@@ -1,31 +1,81 @@
 <h1 align="center">Hi 👋, I'm Rik Maity</h1>
-<h3 align="justify">Hi👋, I'm Rik Maity currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning🧑‍🎓. I’m a passionate Web And Android Developer 🚀with a strong interest in Machine Learning, Cybersecurity, and Ethical Hacking🔐. I love building clean, efficient web applications and constantly exploring how AI and secure systems can shape the future of tech🧑‍💻. I’m particularly driven by the intersection of AI and cybersecurity—where intelligent systems meet secure design💡. 📩 Always open to exciting opportunities, collaborations, or just a good tech conversation.A passionate frontend developer from India</h3>
+<h3 align="center">Web & Android Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rik-web-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="rik-web-fullstack" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack" alt="rik-web-fullstack" /></a> </p>
+### 🧠 About Me:
+I'm currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.  
+A passionate full-stack and Android developer with a deep curiosity in AI, Cybersecurity, and Ethical Hacking.  
+I love building clean, secure, and intelligent web apps that solve real-world problems. Always open to meaningful collaborations!
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **CivicTraK**
+### ⚡ Hackathon Journey:
+- 🏆 **Hackfest 2025** — *Team Lead*, built a full-stack Civic app using MERN & Firebase
+- 🧠 **Hack4Bengal (Virtual)** — Created a real-time AI-integrated tracker using Node.js & WebRTC
+- 🌍 **Hack4Brahma 2025** — Focused on region-specific social impact using ML
+- 💡 Other internal CSE fests & idea competitions across semesters
 
-- 🌱 I’m currently learning **AI and Cyber-Security**
+---
 
-- 💬 Ask me about **Web Development,Android Development**
+### 🔓 Open Source Contributions & Roles:
+- Maintainer at **CivicTraK**
+- Participated in **Hacktoberfest 2024** & **Winter of Code**
+- Active contributor in ML and full-stack repos across GitHub
 
-- 📫 How to reach me **rikmaity522@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/Rik%20Maity-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rik-maity)  
+[![Instagram](https://img.shields.io/badge/_rik.maity522_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rik.maity522_)  
+📫 **Email:** rikmaity522@gmail.com
+
+---
+
+### 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+### 📊 GitHub Stats:
+
 <p align="left">
-<a href="https://linkedin.com/in/rik maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rik maity" height="30" width="40" /></a>
-<a href="https://instagram.com/_rik.maity522_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rik.maity522_" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rik-web-fullstack&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rik-web-fullstack&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rik-web-fullstack&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rik-web-fullstack&show_icons=true&locale=en&layout=compact" alt="rik-web-fullstack" /></p>
+### 🏆 GitHub Trophies:
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=rik-web-fullstack&theme=radical&row=1&no-bg=true&no-frame=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rik-web-fullstack&show_icons=true&locale=en" alt="rik-web-fullstack" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rik-web-fullstack&" alt="rik-web-fullstack" /></p>
+### 🎖️ Badges:
+<p align="left">
+  <img src="https://holopin.me/rik-web-fullstack" alt="Holopin Badges" />
+</p>
+
+---
