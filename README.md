@@ -16,8 +16,19 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
 ---
 
 ### ⚡ Hackathon Journey
-- 🏆 **Hackfest 2025** — Built Atom Mail System - An innovative AI based email management solution
-- 🧠 **Hack4Bengal (Virtual)** — Developed a vaccine tracking and appointment booking app
+
+- 🏆 **Hackfest 2025**  
+  *Built* **Atom Mail System** — An innovative AI-based email management solution using NLP and automation.
+
+- 🧠 **Hack4Bengal (Virtual)**  
+  *Developed* a **vaccine tracking and appointment booking web app** to streamline immunization accessibility.
+
+- 💸 **Hackolution 2024**  
+  *Built* **Monezzy** — An intelligent tax document assistant powered by OCR + Gemini API for ITR filing and form prefill.
+
+- 🤖 **Innofusion 2024 (Virtual)**  
+  *Explored* AI models and participated in technical camps; collaborated on ideation, research, and real-world solution design.
+
   
 ---
 
