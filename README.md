@@ -47,9 +47,16 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
   <b>Contributor - SSOC'4</b><br/>
   <img src="https://github.com/user-attachments/assets/33f14710-0238-434e-89ab-004aac611b80" alt="SSOC'4 Contributor Badge" width="150"/>
 </p>
+
 <p align="left">
-  <b>Contributor - SSOC'4</b><br/>
-  <img src="[https://github.com/user-attachments/assets/33f14710-0238-434e-89ab-004aac611b80" alt="SSOC'4 Contributor Badge" width="150](https://assets.holopin.io/hf2025levels/lvl0-human.webp)"/>
+  <b>Contributor - Hacktoberfest'25</b><br/><br/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150"/>
 </p>
 
 
