@@ -47,6 +47,11 @@ I love building clean, secure, and intelligent web apps that solve real-world pr
   <b>Contributor - SSOC'4</b><br/>
   <img src="https://github.com/user-attachments/assets/33f14710-0238-434e-89ab-004aac611b80" alt="SSOC'4 Contributor Badge" width="150"/>
 </p>
+<p align="left">
+  <b>Contributor - SSOC'4</b><br/>
+  <img src="[https://github.com/user-attachments/assets/33f14710-0238-434e-89ab-004aac611b80" alt="SSOC'4 Contributor Badge" width="150](https://assets.holopin.io/hf2025levels/lvl0-human.webp)"/>
+</p>
+
 
 ---
 
